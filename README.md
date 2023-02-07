@@ -9,4 +9,10 @@ https://www.youtube.com/watch?v=Zuwa8zlfXSY
 7 Awesome Linux commands
 https://www.youtube.com/watch?v=ZNNqkeeOdrk
 
+[7.2.23]
+
+Advanced Scratch Coding
+Submission of Project for CS50 Wk0
+
+
 
